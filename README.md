@@ -59,6 +59,13 @@ Welcome to **Forever **, an eCommerce platform offering a wide selection of prod
     npm start
     ```
 
+
+
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/38bde047-20b8-49a2-a8d1-508f65d5178e" />
+
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/18c3ec47-099b-4ec6-9837-63d1cee809a9" />
+
+
 <img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/394784b1-829e-4501-b430-80aca7db0c38" />
 
 
